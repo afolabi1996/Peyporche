@@ -1,0 +1,181 @@
+
+.Left_Intro{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    top: 100px;
+    left: 5%;
+    height: 100px;
+}
+
+.Left_Intro h1{
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 1.2000000476837158px;
+    text-align: left;
+}
+
+.Right_Intro{
+    position: absolute;
+    left: 57%;
+    top: 10em;
+}
+
+.Left_Intro p{
+    position: relative;
+    top: 85%;
+    right: 30%;
+}
+
+
+.Left_Intro Button{
+    width: 150px;
+    height: 50px;
+    position: relative;
+    top: 15em;
+    right: 65%;
+    border-radius: 1px;
+
+}
+
+
+.Img_Card{
+    position: absolute;
+    left: 0.2%;
+}
+
+.counter_Row{
+    position: relative;
+    top: 400px;
+    left: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.counter_Row h3{
+    color: #0DA955;
+}
+
+.iconbar_section{
+    position: relative;
+    height: 74px;
+    top: 480px;
+}
+
+.ProtectYourMoneySection{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 130%;
+    gap: 15%;
+}
+
+.protectyourmoneyimg{
+    position: relative;
+    left: 10%;
+
+}
+
+.Protectyourmoneytext h1{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.Protectyourmoneytext p{
+    font-size: 20px;
+}
+
+.sendmoneygloballygroup{
+    position: absolute;
+    display: flex;
+    top: 200%;
+    left: 10%;
+}
+
+.sendmoneygloballygroup h1{
+    font-weight: 700;
+}
+
+.sendmoneygloballygroup p{
+    font-size: 20px;
+}
+
+.receiveonlinepaymentsection{
+    display: flex;
+    position:absolute;
+    top: 265%;
+    left: 10%;
+}
+
+.receiveonlinepaymentsection h1{
+    font-weight: 700;
+}
+
+.makebillpaymentsection{
+    display: flex;
+    position: absolute;
+    top: 335%;
+    left: 10%;
+}
+
+.makebillpaymentsection h1{
+    font-weight: 700;
+}
+
+.tradecryptocurrencysection{
+    display: flex;
+    position: absolute;
+    top: 400%;
+    left: 10%;
+}
+
+.tradecryptocurrencysection h1{
+    font-weight: 700;
+}
+
+.FSA_Section{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    top: 450%;
+}
+
+.FSA_Section img{
+    margin-bottom: 20px;
+}
+
+.whatourclientsay{
+    position: absolute;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    top: 490%;
+    left: 35%;
+}
+
+.whatourclientsay h1{
+    font-weight: 600;
+    font-size: 55px;
+}
+
+.testimony_section{
+    position: absolute;
+    top: 520%;
+    left: 10%;
+}
+
+.testimony_section img{
+    margin-bottom: 10px;
+}
+
+.vector{
+    position: relative;
+    top: 100px;
+    right: 50px;
+}
+
+
